@@ -17,6 +17,7 @@ public class UserController {
 
     @GetMapping("/welcome")
     public String greet(){
+        System.out.println("New Branch");
         return "Welcome Vasanth";
     }
     @GetMapping("/getuser")
