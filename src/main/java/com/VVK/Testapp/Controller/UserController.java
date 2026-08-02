@@ -17,7 +17,7 @@ public class UserController {
 
     @GetMapping("/welcome")
     public String greet(){
-        System.out.println("New Branch added in Git repo");
+        System.out.println("New Branch added in Git repo (Terminal check)");
         return "Welcome Vasanth";
     }
     @GetMapping("/getuser")
