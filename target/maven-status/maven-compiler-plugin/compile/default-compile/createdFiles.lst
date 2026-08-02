@@ -1,0 +1,5 @@
+com/VVK/Testapp/Repo/UserRepo.class
+com/VVK/Testapp/TestappApplication.class
+com/VVK/Testapp/Controller/UserController.class
+com/VVK/Testapp/Service/UserService.class
+com/VVK/Testapp/Model/User.class
